@@ -1,0 +1,20 @@
+# Questions to ask the user.
+project_name:
+  type: str
+  help: Name of Project
+  default: hw01
+
+project_description:
+  type: str
+  help: Description of Project  
+  default: "Assignment"
+
+author_name:
+  type: str
+  help: Name
+  default: "Paddy Yang"
+
+author_email:
+  type: str
+  help: Email address
+  default: "paddyyang4071@gmail.com"
